@@ -1,0 +1,25 @@
+{
+  "name": "findcyrillicletters",
+  "version": "1.0.0",
+  "description": "",
+  "main": "findCyrillic.js",
+  "scripts": {
+    "start": "node findCyrillic",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdl95r/findCyrillicLetters.git"
+  },
+  "author": ".mdl",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mdl95r/findCyrillicLetters/issues"
+  },
+  "homepage": "https://github.com/mdl95r/findCyrillicLetters#readme",
+  "devDependencies": {
+    "chalk": "^4.1.2",
+    "glob": "^7.1.7"
+  },
+  "dependencies": {}
+}
