@@ -1,7 +1,7 @@
 # findCyrillic.js
 
 ## Ru
-### Небольшой скрипт, который пробегается по названиям файлов и ищет русские символы, если вдруг была опечатка.
+### Небольшой скрипт, который пробегается по названиям файлов и ищет кириллические символы, если вдруг была опечатка.
 
 ### Запустить - npm start
 
@@ -9,7 +9,7 @@
 
 ## En
 
-### A small script that goes through the file names and looks for russian characters if there was a typo.
+### A small script that goes through the file names and looks for cyrillic characters if there was a typo.
 
 ### Run - npm start
 
